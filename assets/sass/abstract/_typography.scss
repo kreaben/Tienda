@@ -1,0 +1,31 @@
+.container{
+    &__tittle{
+        font-family: 'Old Standard TT', serif;
+        font-size: 50px;
+        font-weight: boldER;
+    }&__paragraph{
+        font-family:'Raleway', sans-serif;
+        font-size: medium;
+        padding: 1rem;
+    }
+    &__newstittle{
+        font-family: 'Old Standard TT', serif;
+        font-size: 30px;
+        font-weight:bolder;
+    }&__correo{
+        font-family:'Raleway', sans-serif;
+        padding: 1rem;
+    }
+    .button1{
+        font-family:'Raleway', sans-serif;
+        font-size: 20px;
+        font-weight: bolder;
+
+    }
+}
+.navbar{
+    &__menu{
+        font-family: 'Raleway', sans-serif;
+    }
+    
+}

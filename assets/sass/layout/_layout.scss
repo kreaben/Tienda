@@ -1,0 +1,25 @@
+.container{
+    &__image{
+        float: right;
+        width: 60%;
+        text-align: right;
+
+    }&__text{
+        padding: 6rem;
+        width: 20%;
+        height: 22rem;
+
+    }&__newsletter{
+        color:white;
+        width: 20%;
+        padding: 6rem;
+        text-align: left;
+        background-color: black;
+    }
+}
+img{
+    height: 50rem;
+    float: left;
+    width: 110%;
+    padding-left: 20%;
+}
